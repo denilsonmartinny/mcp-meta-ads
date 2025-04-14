@@ -19,7 +19,7 @@ Este projeto implementa um servidor MCP (Model Context Protocol) que permite a m
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/mcp-meta-ads.git
+   git clone https://github.com/denilsonmartinny/mcp-meta-ads.git
    cd mcp-meta-ads
    ```
 
